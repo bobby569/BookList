@@ -1,0 +1,9 @@
+.container {
+	margin: 20px;
+}
+
+.booklist:hover {
+	cursor: pointer;
+	background-color: #c0c0c0;
+	transform: scale(1.01);
+}
